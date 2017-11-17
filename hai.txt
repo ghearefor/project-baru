@@ -1,7 +1,3 @@
 hai
 
-<<<<<<< HEAD
-cobain rollback 2
-=======
 cobain rollback
->>>>>>> a3480a5471f77aa8fd49552d3978eed2a8556ed1
